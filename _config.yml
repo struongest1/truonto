@@ -8,8 +8,8 @@ description: |
 owner: Jimmy # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: morrisondano@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://neurosponge.com/theoz" # the base hostname & protocol for your site
+baseurl: "/theoz" # the subpath of your site, e.g. /blog
+url: "http://neurosponge.com" # the base hostname & protocol for your site
   #email: /contact/
   #flickr:
   #instagram:
